@@ -1,6 +1,6 @@
-# my_app
+# iOS Calculator
 
-A new Flutter project.
+A recreation of the iOS calculator.
 
 ## Getting Started
 
