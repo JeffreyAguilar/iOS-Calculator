@@ -1,16 +1,17 @@
-# iOS Calculator
+# iOS Calculator ⚡️ 
 
-A recreation of the iOS calculator.
+A recreation of the iOS calculator using Flutter
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact
+
+**EMAIL:** jeffreyaguilar115@gmail.com
+**LINKEDIN:** https://www.linkedin.com/in/jeffrey-aguilar-b511042a4/
+**GITHUB:** https://github.com/JeffreyAguilar
