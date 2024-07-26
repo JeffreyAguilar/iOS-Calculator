@@ -37,5 +37,7 @@ After installation, you can run the app on an iOS simulator or a physical device
 ## Contact
 
 **EMAIL:** jeffreyaguilar115@gmail.com
+
 **LINKEDIN:** https://www.linkedin.com/in/jeffrey-aguilar-b511042a4/
+
 **GITHUB:** https://github.com/JeffreyAguilar
