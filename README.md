@@ -1,8 +1,8 @@
 # iOS Calculator ⚡️ 
 
-A recreation of the iOS calculator using Flutter
-
 ## Overview
+
+A recreation of the iOS calculator using Flutter
 
 ## Features
 
